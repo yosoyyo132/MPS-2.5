@@ -1,94 +1,974 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731635455779 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731887799629 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635458856 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887802696 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635461934 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887805762 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635465010 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887808818 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635468084 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887811918 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635471147 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887815002 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635474207 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887818061 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635477311 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887821118 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635480383 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887824215 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635483442 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887827291 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635486527 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887830348 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635489595 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887833409 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635492673 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887836472 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635495758 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887839535 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635498836 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887842618 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635501913 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887845684 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635504996 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887848761 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635508055 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887851843 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
-[2J8[0mplayit (v0.15.26): 1731635511122 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731887854925 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887857998 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887861068 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887864147 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887867228 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887870291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887873447 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887876507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887879574 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887882647 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887885711 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887888767 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887891824 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887894946 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887898088 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887901149 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887904218 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887907309 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887910381 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887913441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887916497 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887919635 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887922696 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887925765 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887928828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887931887 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887934947 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887938005 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887941061 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887944137 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887947192 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887950254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887953312 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887956455 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887959601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887962656 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887965742 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887968844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887971919 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887974983 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887978041 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887981104 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887984169 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887987242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887990316 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887993377 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887996441 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731887999548 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888002610 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888005749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888008815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888011872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888015002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888018071 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888021147 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888024213 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888027299 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888030368 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888033426 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888036495 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888039558 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888042628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888045688 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888048742 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888051815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888054885 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888058037 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888061108 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888064182 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888067241 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888070398 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888073806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888076900 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888079965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888083023 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888086089 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888089146 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888092228 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888095334 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888098398 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888101470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888104537 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888107596 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888110774 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888113843 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888116919 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888120070 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888123136 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888126204 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888129275 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888132346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888135418 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888138507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888141564 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888144622 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888147696 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888150775 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888153842 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888156925 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888159992 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888163051 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888166114 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888169173 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888172243 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888175308 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888178371 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888181456 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888184520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888187619 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888190677 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888193735 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888196790 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888199855 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888202923 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888205984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888209050 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888212122 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888215178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888218254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888221325 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888224390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888227455 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888230514 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888233576 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888236671 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888239744 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888242806 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888245872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888248985 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888252054 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888255119 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888258178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888261248 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888264306 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888267367 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888270520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888273579 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888276645 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888279714 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888282796 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888285889 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888288949 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888292039 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888295109 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888298216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888301288 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888304346 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888307418 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888310492 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888313551 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888316640 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888319699 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888322832 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888325895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888328959 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888332024 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888335091 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888338147 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888341213 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888344276 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888347343 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888350413 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888353480 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888356547 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888359618 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888362698 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888365775 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888368847 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888371916 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888374996 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888378060 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888381118 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888384181 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888387348 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888390406 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888393481 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+fee-draft.gl.joinmc.link => 127.0.0.1:25565 (disabled)
+[2J8[0mplayit (v0.15.26): 1731888396561 tunnel running, 1 tunnels registered
 
 
 TUNNELS
